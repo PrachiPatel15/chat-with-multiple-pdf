@@ -57,11 +57,11 @@ streamlit run app.py
 ## 🖼️ Screenshots
 _Add screenshots here to showcase the app interface and responses._
 
-![Upload PDF](path/to/upload_screenshot.png)
+![Upload PDF]([path/to/upload_screenshot.png](https://github.com/PrachiPatel15/chat-with-multiple-pdf/blob/main/upload_files.png))
 
-![Ask a Question](path/to/question_screenshot.png)
+![Ask a Question]([path/to/question_screenshot.png](https://github.com/PrachiPatel15/chat-with-multiple-pdf/blob/main/question.png))
 
-![Get Answer with Page Numbers](path/to/answer_screenshot.png)
+![Get Answer with Page Numbers]([path/to/answer_screenshot.png](https://github.com/PrachiPatel15/chat-with-multiple-pdf/blob/main/ans.png))
 
 ---
 
